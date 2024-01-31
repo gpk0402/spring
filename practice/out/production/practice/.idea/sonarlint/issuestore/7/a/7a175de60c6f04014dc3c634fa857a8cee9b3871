@@ -1,0 +1,18 @@
+
+x
+java:S1104"VMake CANDYMAKER a static final constant or non-public and provide accessors if needed.(Òö Õÿÿÿÿÿ8ÌÆÔâÕ1
+R
+java:S1444"0Make this "public static CANDYMAKER" field final(Òö Õÿÿÿÿÿ8ÍÆÔâÕ1
+w
+java:S3008"URename this field "CANDYMAKER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òö Õÿÿÿÿÿ8ÓÆÔâÕ1
+[
+java:S2168"9Remove this dangerous instance of double-checked locking.(­âÏêùÿÿÿÿ8ÙÆÔâÕ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚Œæş8ÛÆÔâÕ1
+»
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(¥íÇêşÿÿÿÿ8İÆÔâÕ1
+V
+java:S1118$":Add a private constructor to hide the implicit public one.(°Ç¥%8İÆÔâÕ1
+F
+java:S1068")Remove this unused "empty" private field.(Òß¿­8ßÆÔâÕ1
+F
+java:S1068"*Remove this unused "boiled" private field.(ÆÙÔz8ßÆÔâÕ1
