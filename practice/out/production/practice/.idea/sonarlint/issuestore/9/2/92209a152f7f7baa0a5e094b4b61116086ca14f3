@@ -1,0 +1,10 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(şÖ±µùÿÿÿÿ8Ø°‘¾×1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ç™8é°‘¾×1
+W
+java:S1161":Add the "@Override" annotation above this method signature(Ìâû 8»Ì—¾×1
+X	java:S125"<This block of commented-out lines of code should be removed.(¾ ÷é8ì°‘¾×1
+]	java:S125"<This block of commented-out lines of code should be removed.(Ùº¿‚şÿÿÿÿ8Ó†—¾×1
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ÔË×¤8½Ì—¾×1
+L
+java:S1197%"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8ÀÌ—¾×1

@@ -1,0 +1,8 @@
+
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(°å§Ìûÿÿÿÿ8»Œàí×1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÂÉ—Ÿ8¼Œàí×1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÖßù8¾Œàí×1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8·›áí×1
+W
+java:S1128"5Remove this unused import 'com.sun.source.tree.Tree'.(·óƒüıÿÿÿÿ8¾Œàí×1

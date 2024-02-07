@@ -1,0 +1,12 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÃª‘ûÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÝ’µþÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±œ¿™
+Z
+java:S3518"DMake sure "employee_count" can't be zero before doing this division.(±œ¿™
+M
+java:S1135	"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ó“ÖŽ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Û„ðÝ
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¹¢‘îÕ1

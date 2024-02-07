@@ -1,0 +1,8 @@
+
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(ºª¬·ûÿÿÿÿ8’˜Þê×1
+]	java:S125"<This block of commented-out lines of code should be removed.(ŸÇ°Ôûÿÿÿÿ8”˜Þê×1
+P
+java:S1611"3Remove the parentheses around the "input" parameter(•Ñïß8”˜Þê×1
+]
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(•Ñïß8”˜Þê×1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(•Ñïß8•˜Þê×1

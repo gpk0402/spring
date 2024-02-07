@@ -1,0 +1,30 @@
+
+t
+java:S1192$"RDefine a constant instead of duplicating this literal "default@gmail.com" 4 times.(Ó«şÎûÿÿÿÿ8µ†¥ş×1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿñ¿¤şÿÿÿÿ8Â†¥ş×1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(òí¦ùÿÿÿÿ8Â†¥ş×1
+]	java:S125"<This block of commented-out lines of code should be removed.(ü’•¸şÿÿÿÿ8Ã†¥ş×1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(œ÷Àº8Ã†¥ş×1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ı¹â8Ã†¥ş×1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ïÚÒÂ8Ã†¥ş×1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ùÀò¸8Ã†¥ş×1
+X	java:S125"<This block of commented-out lines of code should be removed.(ÉùÌ8Ã†¥ş×1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(êí›ÿÿÿÿÿ8Ä†¥ş×1
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ğÈù8Ä†¥ş×1
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(†‡§…8Ä†¥ş×1
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(Ó«şÎûÿÿÿÿ8Ä†¥ş×1
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(±Ê¬8Ä†¥ş×1
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(èÏ‚ïÿÿÿÿÿ8Ä†¥ş×1
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(ß€™„8Å†¥ş×1
+T	java:S106,"9Replace this use of System.out or System.err by a logger.(×”¼(8Å†¥ş×1
+X	java:S125-"<This block of commented-out lines of code should be removed.(ë˜÷8Æ†¥ş×1
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(Øùí¤8Æ†¥ş×1
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(øÁ„ÿüÿÿÿÿ8Æ†¥ş×1
+]
+java:S16125"@Replace this lambda with method reference 'System.out::println'.(ÏùÿÃ8Ç†¥ş×1
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(ÏùÿÃ8Ç†¥ş×1
+]
+java:S16129"@Replace this lambda with method reference 'String::toUpperCase'.(÷Ô£ö8É†¥ş×1
+]
+java:S1612:"@Replace this lambda with method reference 'System.out::println'.(ÏùÿÃ8É†¥ş×1
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(ÏùÿÃ8É†¥ş×1

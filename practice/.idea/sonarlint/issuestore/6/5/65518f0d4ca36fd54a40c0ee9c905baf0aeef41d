@@ -1,0 +1,30 @@
+
+f
+java:S1192'"IDefine a constant instead of duplicating this literal "prasanth" 4 times.(Ÿ³¹˜8ÑºÂø×1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(½•²ú8ãºÂø×1
+v
+java:S4276"YRefactor this code to use the more specialised Functional Interface 'IntToDoubleFunction'(³©ğà8ïºÂø×1
+T
+java:S1612"7Replace this lambda with method reference 'Math::sqrt'.(³©ğà8ğºÂø×1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æÄ”™ıÿÿÿÿ8òºÂø×1
+v
+java:S4276"YRefactor this code to use the more specialised Functional Interface 'IntToDoubleFunction'(’ÔùÁ8òºÂø×1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†É ‚øÿÿÿÿ8óºÂø×1
+z
+java:S4276 "]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(¯Æ¸ˆ8óºÂø×1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(”“Ì´şÿÿÿÿ8ôºÂø×1
+N
+java:S1611&"1Remove the parentheses around the "msg" parameter(¥Ìª‚8õºÂø×1
+f
+java:S1612&"IReplace this lambda with method reference 'methodReferenceDemo::display'.(¥Ìª‚8öºÂø×1
+}
+java:S4276-"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(©‡€Ñüÿÿÿÿ8÷ºÂø×1
+U
+java:S1611-"3Remove the parentheses around the "input" parameter(©‡€Ñüÿÿÿÿ8÷ºÂø×1
+b
+java:S1612-"@Replace this lambda with method reference 'String::toUpperCase'.(©‡€Ñüÿÿÿÿ8úºÂø×1
+Z	java:S106."9Replace this use of System.out or System.err by a logger.( •Èøÿÿÿÿ8úºÂø×1
+}
+java:S42761"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(ÿĞóñıÿÿÿÿ8ûºÂø×1
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(íëÚûÿÿÿÿ8ıºÂø×1
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(¡øóŸşÿÿÿÿ8ıºÂø×1
