@@ -1,63 +1,75 @@
 
 m
-java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(şäÅ8ÇÉ…Ø1
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(»× …8Êø©Ú1
 r
-java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(«¶Ã¤ÿÿÿÿÿ8ÇÉ…Ø1
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(«¶Ã¤ÿÿÿÿÿ8Êø©Ú1
+m
+java:S3655n"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(‚¢Öø8Êø©Ú1
+\
+java:S1854*":Remove this useless assignment to local variable "result".(øÚš“úÿÿÿÿ8Îø©Ú1
+a
+java:S1854x"?Remove this useless assignment to local variable "filteredMap".(‚ãùÿÿÿÿ8Îø©Ú1
 U
-java:S1854?"8Remove this useless assignment to local variable "map1".(Âá´ò8ÇÉ…Ø1
+java:S1854@"8Remove this useless assignment to local variable "map1".(Âá´ò8Îø©Ú1
 Q
-java:S3631"/Use "Arrays.stream" instead of "Arrays.asList".(ØÜú­üÿÿÿÿ8’ÇÉ…Ø1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ØÜú­üÿÿÿÿ8’ÇÉ…Ø1
+java:S3631"/Use "Arrays.stream" instead of "Arrays.asList".(ØÜú­üÿÿÿÿ8Ïø©Ú1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ØÜú­üÿÿÿÿ8Ğø©Ú1
 Q
-java:S3631"/Use "Arrays.stream" instead of "Arrays.asList".(´ëà½ùÿÿÿÿ8“ÇÉ…Ø1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(´ëà½ùÿÿÿÿ8“ÇÉ…Ø1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(±”¼¿úÿÿÿÿ8”ÇÉ…Ø1
+java:S3631"/Use "Arrays.stream" instead of "Arrays.asList".(´ëà½ùÿÿÿÿ8Ğø©Ú1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´ëà½ùÿÿÿÿ8Ğø©Ú1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(±”¼¿úÿÿÿÿ8Ñø©Ú1
 Q
-java:S3631"/Use "Arrays.stream" instead of "Arrays.asList".(±”¼¿úÿÿÿÿ8”ÇÉ…Ø1
-U	java:S106"9Replace this use of System.out or System.err by a logger.(şäÅ8”ÇÉ…Ø1
-X	java:S125"<This block of commented-out lines of code should be removed.(„çÜÙ8”ÇÉ…Ø1
+java:S3631"/Use "Arrays.stream" instead of "Arrays.asList".(±”¼¿úÿÿÿÿ8Ñø©Ú1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(»× …8Ñø©Ú1
+X	java:S125"<This block of commented-out lines of code should be removed.(„çÜÙ8Ñø©Ú1
 L
-java:S3631"/Use "Arrays.stream" instead of "Arrays.asList".(şäÅ8–ÇÉ…Ø1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÒõüûÿÿÿÿ8–ÇÉ…Ø1
+java:S3631"/Use "Arrays.stream" instead of "Arrays.asList".(»× …8Ñø©Ú1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÒõüûÿÿÿÿ8Òø©Ú1
 Q
-java:S3631"/Use "Arrays.stream" instead of "Arrays.asList".(ÒÒõüûÿÿÿÿ8–ÇÉ…Ø1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(«¶Ã¤ÿÿÿÿÿ8–ÇÉ…Ø1
+java:S3631"/Use "Arrays.stream" instead of "Arrays.asList".(ÒÒõüûÿÿÿÿ8Òø©Ú1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(«¶Ã¤ÿÿÿÿÿ8Òø©Ú1
 Q
-java:S3631"/Use "Arrays.stream" instead of "Arrays.asList".(«¶Ã¤ÿÿÿÿÿ8–ÇÉ…Ø1
+java:S3631"/Use "Arrays.stream" instead of "Arrays.asList".(«¶Ã¤ÿÿÿÿÿ8Òø©Ú1
 Q
-java:S3631!"/Use "Arrays.stream" instead of "Arrays.asList".(”¼Ùúÿÿÿÿ8—ÇÉ…Ø1
+java:S3631!"/Use "Arrays.stream" instead of "Arrays.asList".(”¼Ùúÿÿÿÿ8Òø©Ú1
 Q
-java:S3631!"/Use "Arrays.stream" instead of "Arrays.asList".(”¼Ùúÿÿÿÿ8—ÇÉ…Ø1
-Z	java:S106!"9Replace this use of System.out or System.err by a logger.(”¼Ùúÿÿÿÿ8—ÇÉ…Ø1
-U	java:S106%"9Replace this use of System.out or System.err by a logger.(Š¯ùÿ8˜ÇÉ…Ø1
-Z	java:S106)"9Replace this use of System.out or System.err by a logger.(¸äöèşÿÿÿÿ8˜ÇÉ…Ø1
-X	java:S125&"<This block of commented-out lines of code should be removed.(œ˜Í€8™ÇÉ…Ø1
-Z	java:S106."9Replace this use of System.out or System.err by a logger.(ù­âüÿÿÿÿ8šÇÉ…Ø1
-U	java:S106;"9Replace this use of System.out or System.err by a logger.(É„†ú8›ÇÉ…Ø1
+java:S3631!"/Use "Arrays.stream" instead of "Arrays.asList".(”¼Ùúÿÿÿÿ8Óø©Ú1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(”¼Ùúÿÿÿÿ8Óø©Ú1
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(‹²—›ıÿÿÿÿ8Óø©Ú1
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(é¢İÆüÿÿÿÿ8Ôø©Ú1
+X	java:S125'"<This block of commented-out lines of code should be removed.(œ˜Í€8Ôø©Ú1
+M
+java:S1481*"+Remove this unused "result" local variable.(øÚš“úÿÿÿÿ8Ôø©Ú1
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ù­âüÿÿÿÿ8Õø©Ú1
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(É„†ú8Öø©Ú1
 F
-java:S1481?")Remove this unused "map1" local variable.(Âá´ò8œÇÉ…Ø1
-Z	java:S106B"9Replace this use of System.out or System.err by a logger.(ìæÉöüÿÿÿÿ8ÇÉ…Ø1
-Z	java:S106E"9Replace this use of System.out or System.err by a logger.(òÔ¼©ıÿÿÿÿ8ÇÉ…Ø1
-U	java:S106H"9Replace this use of System.out or System.err by a logger.(êÕËÜ8ÇÉ…Ø1
-Z	java:S106K"9Replace this use of System.out or System.err by a logger.(ëğÔ·üÿÿÿÿ8ÇÉ…Ø1
-Z	java:S106N"9Replace this use of System.out or System.err by a logger.(–É¦ãıÿÿÿÿ8 ÇÉ…Ø1
+java:S1481@")Remove this unused "map1" local variable.(Âá´ò8×ø©Ú1
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(ìæÉöüÿÿÿÿ8×ø©Ú1
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(òÔ¼©ıÿÿÿÿ8Øø©Ú1
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(êÕËÜ8Ùø©Ú1
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(ëğÔ·üÿÿÿÿ8Ùø©Ú1
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(–É¦ãıÿÿÿÿ8Ùø©Ú1
 Q
-java:S3631Q"/Use "Arrays.stream" instead of "Arrays.asList".(Æ½–°ıÿÿÿÿ8 ÇÉ…Ø1
-Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(Æ½–°ıÿÿÿÿ8 ÇÉ…Ø1
-U	java:S106W"9Replace this use of System.out or System.err by a logger.(‰æÊÛ8 ÇÉ…Ø1
-]	java:S125T"<This block of commented-out lines of code should be removed.(ÅÍ²şÿÿÿÿ8 ÇÉ…Ø1
+java:S3631R"/Use "Arrays.stream" instead of "Arrays.asList".(Æ½–°ıÿÿÿÿ8Úø©Ú1
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(Æ½–°ıÿÿÿÿ8Úø©Ú1
+U	java:S106X"9Replace this use of System.out or System.err by a logger.(‰æÊÛ8Úø©Ú1
+]	java:S125U"<This block of commented-out lines of code should be removed.(ÅÍ²şÿÿÿÿ8Úø©Ú1
 L
-java:S3631W"/Use "Arrays.stream" instead of "Arrays.asList".(‰æÊÛ8 ÇÉ…Ø1
-Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(¬¶ µÿÿÿÿÿ8 ÇÉ…Ø1
+java:S3631X"/Use "Arrays.stream" instead of "Arrays.asList".(‰æÊÛ8Úø©Ú1
+Z	java:S106["9Replace this use of System.out or System.err by a logger.(¬¶ µÿÿÿÿÿ8Úø©Ú1
 Q
-java:S3631Z"/Use "Arrays.stream" instead of "Arrays.asList".(¬¶ µÿÿÿÿÿ8 ÇÉ…Ø1
+java:S3631["/Use "Arrays.stream" instead of "Arrays.asList".(¬¶ µÿÿÿÿÿ8Ûø©Ú1
 Q
-java:S3631]"/Use "Arrays.stream" instead of "Arrays.asList".(×ƒá˜şÿÿÿÿ8¡ÇÉ…Ø1
-U	java:S106^"9Replace this use of System.out or System.err by a logger.(æá±8¡ÇÉ…Ø1
-T	java:S106_"9Replace this use of System.out or System.err by a logger.(“Ä®m8¡ÇÉ…Ø1
-Z	java:S106`"9Replace this use of System.out or System.err by a logger.(‚³šËûÿÿÿÿ8¢ÇÉ…Ø1
-Z	java:S106a"9Replace this use of System.out or System.err by a logger.(£²¸ÿÿÿÿÿ8¢ÇÉ…Ø1
-Z	java:S106b"9Replace this use of System.out or System.err by a logger.(³¦Î©øÿÿÿÿ8¢ÇÉ…Ø1
-Z	java:S106e"9Replace this use of System.out or System.err by a logger.(°ÀÀÖıÿÿÿÿ8¢ÇÉ…Ø1
-Z	java:S106f"9Replace this use of System.out or System.err by a logger.(èåõşÿÿÿÿ8£ÇÉ…Ø1
-Z	java:S106i"9Replace this use of System.out or System.err by a logger.(ÒêŞ‘ÿÿÿÿÿ8£ÇÉ…Ø1
+java:S3631^"/Use "Arrays.stream" instead of "Arrays.asList".(×ƒá˜şÿÿÿÿ8Ûø©Ú1
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(æá±8Ûø©Ú1
+T	java:S106`"9Replace this use of System.out or System.err by a logger.(“Ä®m8Ûø©Ú1
+Z	java:S106a"9Replace this use of System.out or System.err by a logger.(‚³šËûÿÿÿÿ8Ûø©Ú1
+Z	java:S106b"9Replace this use of System.out or System.err by a logger.(£²¸ÿÿÿÿÿ8Üø©Ú1
+Z	java:S106c"9Replace this use of System.out or System.err by a logger.(³¦Î©øÿÿÿÿ8Üø©Ú1
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(°ÀÀÖıÿÿÿÿ8Üø©Ú1
+Z	java:S106g"9Replace this use of System.out or System.err by a logger.(èåõşÿÿÿÿ8Üø©Ú1
+Z	java:S106j"9Replace this use of System.out or System.err by a logger.(ÒêŞ‘ÿÿÿÿÿ8İø©Ú1
+U	java:S106l"9Replace this use of System.out or System.err by a logger.(¨³Ë8İø©Ú1
+U	java:S106n"9Replace this use of System.out or System.err by a logger.(‚¢Öø8İø©Ú1
+R
+java:S1481x"0Remove this unused "filteredMap" local variable.(‚ãùÿÿÿÿ8ßø©Ú1

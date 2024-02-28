@@ -1,6 +1,7 @@
 package com.epam.collections.list.task;
 
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 
 public class Task4 {
@@ -15,6 +16,10 @@ public class Task4 {
 			}
 			
 		}
+		Employee employee1 = employeeList.stream()
+				.sorted(Comparator.comparingDouble(Employee::getSalary).reversed())
+				.findFirst().orElse(null);
+
 		System.out.println("Highest paid employee is: "+employee);
 
 		

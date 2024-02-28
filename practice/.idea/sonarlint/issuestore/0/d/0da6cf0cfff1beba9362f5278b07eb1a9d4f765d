@@ -1,6 +1,11 @@
 
+Z
+java:S1854"=Remove this useless assignment to local variable "employee1".(·Ë8Ï€¾ŒÚ1
+T
+java:S1135
+"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8Ğ€¾ŒÚ1
+K
+java:S1481".Remove this unused "employee1" local variable.(·Ë8Ñ€¾ŒÚ1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(‹•¾8Ñ€¾ŒÚ1
 M
-java:S1135	"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
-M	java:S106"9Replace this use of System.out or System.err by a logger.(‹•¾
-M
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8‡Œ‰îÕ1
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8…ÿ¾ŒÚ1

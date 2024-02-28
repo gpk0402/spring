@@ -1,6 +1,7 @@
 package com.epam.collections.list.task;
 
 import java.util.*;
+import java.util.stream.Collectors;
 
 public class Task6 {
 
@@ -18,6 +19,13 @@ public class Task6 {
 			}
 		}
 		System.out.println(department_employee_count);
+		Map<String,Long> deptMap = employeeList.stream()
+				.collect(Collectors.groupingBy(emp->emp.getDepartment(),HashMap::new,Collectors.counting()))
+				.entrySet()
+				.stream()
+//				.map(entry-> entry.setValue(())
+				.collect(Collectors.toMap(Map.Entry::getKey,Map.Entry::getValue));
+		System.out.println(deptMap);
 	}
 
 	

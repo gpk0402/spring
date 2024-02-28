@@ -20,6 +20,8 @@ public class Task5 {
 		Iterator<Employee> iter = emoloyees_after_2015.iterator();
 		while(iter.hasNext())
 			System.out.println(iter.next());
+
+		ListIterator<Employee> listIterator = emoloyees_after_2015.listIterator();
 	}
 
 }

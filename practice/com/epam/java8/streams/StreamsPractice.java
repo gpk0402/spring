@@ -23,7 +23,7 @@ public static void main(String[] args) {
 //    new Random().ints(100, 1, 10).forEach(System.out::println);
 
 // 5. Find Max Number using max():
-    System.out.println(Arrays.asList(1,2,34,4,5,6,6).stream().max(Comparator.comparing(Integer::valueOf)).get());
+    System.out.println(Arrays.asList(1,2,34,4,5,6,6).stream().max((a,b)-> b-a).get());
     System.out.println(Arrays.asList(1,2,2,33,4,5,65,23,2,2,3,43,33,4,5,8).stream().sorted().findFirst());
 
 // 6. Find Min Number using min():
@@ -34,11 +34,12 @@ public static void main(String[] args) {
 //
 // 8. Find Unique Elements:
     List<Integer> list = Arrays.asList(1,2,2,33,4,5,65,23,2,2,3,43,33,4,5,8);
-    (list.stream().filter(i -> Collections.frequency(list,i) == 1).collect(Collectors.toCollection(LinkedHashSet::new))).forEach(i -> System.out.print(i+","));
+    list.stream().distinct().forEach(System.out::println);
+    (list.stream().filter(i -> Collections.frequency(list,i) == 1).collect(Collectors.toSet())).forEach(i -> System.out.print(i+","));
 //    System.out.println(result);
 //
 // 9. String Reverse:
-    System.out.println("hiiiiokok".chars().mapToObj(i -> (char)i + "").reduce("", (a,b) -> b + a));
+    String result = ("hiiiiokok".chars().mapToObj(i -> (char)i + "").reduce("", (a,b) -> b + a));
 //
 // 10. Remove Unknown Chars:
     String s = "@#$%^&*()(*&^HJHCVB NMHGSwerty12 345678gv%^&*(^%#$vDgV#$%";
@@ -104,7 +105,21 @@ public static void main(String[] args) {
 // 25. Building Stream of Strings:
     Stream.of("a", "b", "c").forEach(System.out::println);
 
+    System.out.println("---------------------");
+    int[] arr = {5, 7, 5, 7, 5, 2};
+    System.out.println(Arrays.stream(arr).boxed().collect(Collectors.groupingBy(a->a,Collectors.counting()))
+            .entrySet().stream().max(Comparator.comparing(Map.Entry::getValue)).get().getKey());
 
+    Map<Integer, String> map3 = new HashMap<>();
+    map3.put(1, "Apple");
+    map3.put(2, "Banana");
+    map3.put(3, "Orange");
+    map3.put(4, "Grapes");
+
+    // Filter map based on keys greater than 2 and store the result in a new map
+    Map<Integer, String> filteredMap = map3.entrySet().stream()
+            .filter(entry -> entry.getKey() > 2)
+            .collect(Collectors.toMap(Map.Entry::getKey,Map.Entry::getValue));
 
 }
 }
