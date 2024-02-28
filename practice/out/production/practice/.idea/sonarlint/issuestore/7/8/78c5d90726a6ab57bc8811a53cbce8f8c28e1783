@@ -1,0 +1,9 @@
+
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8¤Õ¥»Ø1
+p
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(—’ôÏ8â€¥»Ø1
+]	java:S125"<This block of commented-out lines of code should be removed.(àŠ¦µûÿÿÿÿ8¿¹äºØ1
+X	java:S125"<This block of commented-out lines of code should be removed.(¼ª¶“8ã€¥»Ø1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÕÜý”úÿÿÿÿ8¿¹äºØ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²«Äö8¿¹äºØ1

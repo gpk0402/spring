@@ -1,0 +1,16 @@
+
+k
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¾‰Ø“ýÿÿÿÿ
+S
+java:S1854"=Remove this useless assignment to local variable "inputMap1".(ï¢£î
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾‰Ø“ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ú¡‚Øüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÆàåÄùÿÿÿÿ
+D
+java:S1481".Remove this unused "inputMap1" local variable.(ï¢£î
+Q	java:S125"<This block of commented-out lines of code should be removed.(Þï¿ö
+V	java:S125!"<This block of commented-out lines of code should be removed.(Ú®å‘üÿÿÿÿ
+_
+java:S1128"DRemove this unused import 'com.epam.collections.list.task.Employee'.(°¯ëÅûÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
