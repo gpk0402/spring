@@ -36,4 +36,10 @@ build/
 .vscode/
 
 # Ignore files and directories within SpringProjectApplication
+SpringProjectApplication/.idea
+SpringProjectApplication/.settings
+SpringProjectApplication/.project
+SpringProjectApplication/.classpath
+SpringProjectApplication/.factorypath
+SpringProjectApplication/Project.iml
 SpringProjectApplication/.gitignore
