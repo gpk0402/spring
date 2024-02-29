@@ -18,6 +18,11 @@ target/
 *.iws
 *.iml
 *.ipr
+SpringProjectApplication/.idea
+SpringProjectApplication/*.iws
+SpringProjectApplication/*.iml
+SpringProjectApplication/*.ipr
+
 
 ### NetBeans ###
 /nbproject/private/
